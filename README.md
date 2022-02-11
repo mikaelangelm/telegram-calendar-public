@@ -1,4 +1,5 @@
 # telegram-calendar
+![car](https://github.com/mikaelangelm/telegram-calendar-public/blob/main/documents/avatar.png?raw=true)
 
 ## Используется:
 * (СДЕЛАНО) Flask
